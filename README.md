@@ -1,4 +1,6 @@
 # Marlin 3D Printer Firmware for Creality Ender 3
+![](https://img.shields.io/badge/licence-GNU%203-orange)
+![](https://img.shields.io/badge/PlatformIO-ready-syccess)
 
 ## Marlin 2  for Creality Ender3/Ender3-Pro
 
