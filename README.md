@@ -8,6 +8,11 @@
 Firmware based on Marlin 2 for SKR V1.3 motherboard<br>
 * TMC2208 UART
 
+## Support
+
+If you want to support my work you can offer me a coffee.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WCSZEVGZTKFXS&currency_code=EUR&source=url)
 
 ## License
 
