@@ -2,10 +2,10 @@
 
 ## Marlin 2  for Creality Ender3/Ender3-Pro
 
-## Branch SKR14
+## Branch SKR14T
 ![](https://img.shields.io/badge/build-passing-success)<br>
 
-Firmware based on Marlin 2 for SKR V1.4 motherboard<br>
+Firmware based on Marlin 2 for SKR V1.4 TURBO motherboard<br>
 * TMC2209 UART
 
 ## License
