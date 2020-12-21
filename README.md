@@ -12,7 +12,7 @@ Original firmware based on Marlin 2 for Creality V1.x.x motherboard
 ![](https://img.shields.io/badge/build-passing-success)<br>
 [switch to skr13](https://github.com/dazeroit/ender-3/tree/skr13)<br>
 Firmware based on Marlin 2 for SKR V1.3 motherboard<br>
->> TMC2208 UART
+> * TMC2208 UART
 
 ## License
 
