@@ -2,6 +2,8 @@
 
 ## Marlin 2  for Creality Ender3/Ender3-Pro
 
+⚠️ Don't use the `master` branch but choose the correct branch based on your configuration
+
 ## Current Branches
 >![](https://img.shields.io/badge/branch-original-blue) 
 ![](https://img.shields.io/badge/build-passing-success)<br>
