@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/build-passing-success)<br>
 
 Firmware based on Marlin 2 for MKS Robin E3 motherboard
+* TMC2209 UART
 
 ## License
 
