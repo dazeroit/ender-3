@@ -2,7 +2,12 @@
 
 ## Marlin 2  for Creality Ender3/Ender3-Pro
 
-![](https://img.shields.io/badge/build-passing-success)
+## Branch ORIGINAL
+![](https://img.shields.io/badge/build-passing-success)<br/><br/>
+
+Original configuration for Creality V1.x.x motherboard
+
+
 
 ## License
 
