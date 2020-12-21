@@ -7,7 +7,11 @@
 
 Original configuration for Creality V1.x.x motherboard
 
+## Support
 
+If you want to support my work you can offer me a coffee.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WCSZEVGZTKFXS&currency_code=EUR&source=url)
 
 ## License
 
