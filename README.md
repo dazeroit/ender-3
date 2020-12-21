@@ -16,6 +16,12 @@ Original firmware based on Marlin 2 for Creality V1.x.x motherboard
 Firmware based on Marlin 2 for SKR V1.3 motherboard<br>
 > * TMC2208 UART
 
+> ![](https://img.shields.io/badge/branch-skr14-blue) 
+![](https://img.shields.io/badge/build-passing-success)<br>
+[switch to skr14](https://github.com/dazeroit/ender-3/tree/skr14)<br>
+Firmware based on Marlin 2 for SKR V1.4 motherboard<br>
+> * TMC2209 UART
+
 ## License
 
 Marlin is published under the [GPL license](/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
