@@ -2,7 +2,11 @@
 
 ## Marlin 2  for Creality Ender3/Ender3-Pro
 
-![](https://img.shields.io/badge/build-passing-success)
+## Current Branches
+* >![](https://img.shields.io/badge/branch-original-blue) 
+![](https://img.shields.io/badge/build-passing-success)<br>
+[switch to original](https://github.com/dazeroit/ender-3/tree/original)<br>
+Original firmware based on Marlin 2 for Creality V1.x.x motherboard
 
 ## License
 
