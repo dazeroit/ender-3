@@ -31,7 +31,7 @@ Firmware based on Marlin 2 for SKR V1.4 TURBO motherboard<br>
 > ![](https://img.shields.io/badge/branch-mks--robin--e3-blue) 
 ![](https://img.shields.io/badge/build-passing-success)<br>
 [switch to mks-robin-e3](https://github.com/dazeroit/ender-3/tree/mks-robin-e3)<br>
-Firmware based on Marlin 2 for MKS RObin E3 motherboard<br>
+Firmware based on Marlin 2 for MKS Robin E3 motherboard<br>
 > * TMC2209 UART
 
 ## License
