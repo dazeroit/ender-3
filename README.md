@@ -1,32 +1,11 @@
 # Marlin 3D Printer Firmware for Creality Ender 3
 
-## Marlin 2  for Creality Ender3/Ender3-Pro
+##  Marlin 2 for Creality Ender3/Ender3-Pro
 
-⚠️ Don't use the `master` branch but choose the correct branch based on your configuration
-
-## Current Branches
->![](https://img.shields.io/badge/branch-original-blue) 
+## Branch MKS-ROBIN-E3
 ![](https://img.shields.io/badge/build-passing-success)<br>
-[switch to original](https://github.com/dazeroit/ender-3/tree/original)<br>
-Original firmware based on Marlin 2 for Creality V1.x.x motherboard
 
-> ![](https://img.shields.io/badge/branch-skr13-blue) 
-![](https://img.shields.io/badge/build-passing-success)<br>
-[switch to skr13](https://github.com/dazeroit/ender-3/tree/skr13)<br>
-Firmware based on Marlin 2 for SKR V1.3 motherboard<br>
-> * TMC2208 UART
-
-> ![](https://img.shields.io/badge/branch-skr14-blue) 
-![](https://img.shields.io/badge/build-passing-success)<br>
-[switch to skr14](https://github.com/dazeroit/ender-3/tree/skr14)<br>
-Firmware based on Marlin 2 for SKR V1.4 motherboard<br>
-> * TMC2209 UART
-
-> ![](https://img.shields.io/badge/branch-skr14T-blue) 
-![](https://img.shields.io/badge/build-passing-success)<br>
-[switch to skr14T](https://github.com/dazeroit/ender-3/tree/skr14T)<br>
-Firmware based on Marlin 2 for SKR V1.4 TURBO motherboard<br>
-> * TMC2209 UART
+Firmware based on Marlin 2 for MKS Robin E3 motherboard
 
 ## License
 
